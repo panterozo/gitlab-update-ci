@@ -44,7 +44,6 @@ If you choose group, the script will read the `GROUPS_ID` array
 If you choose file, the script will read the file defined in `FILE` key. By default, db.json.
 
 
-``
 ## Running It
 
 ### Environments
