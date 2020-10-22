@@ -1,0 +1,15 @@
+stages:
+    - start
+    - build  
+
+
+start:
+    stage: start    
+    script: 
+      - echo "Hello world!"
+    
+build:
+    stage: build
+    script: 
+      - echo "Build stage"
+    
